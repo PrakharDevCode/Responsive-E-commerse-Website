@@ -3,7 +3,7 @@
 A fully responsive Ecommerce Website built using HTML, CSS, and JavaScript.
 This project demonstrates a modern and responsive online store layout with features like product listing, cart, and responsive navigation.
 
-🌐 Live Demo:[ View on Netlify](https://68d63a07d0125d2779be1224--logo-hub-clothes-shopping-website.netlify.app/)
+🌐 Live Demo:[ View on Netlify](https://logo-hub-clothes-shopping-website.netlify.app)
 
 📌 Features
 
